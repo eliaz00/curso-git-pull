@@ -1,2 +1,2 @@
 # curso-git-pull
-Agregar un pull
+estoy agregando un nuevo pull y aprendiendo
